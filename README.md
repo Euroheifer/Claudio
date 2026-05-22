@@ -1,5 +1,9 @@
 # Claudio
 
+<p align="center">
+  <img src="docs/blueprint.png" alt="Claudio 施工图" width="720" />
+</p>
+
 个人 AI 电台：读懂你的听歌习惯 → 规划声音 → 像 DJ 那样播报。
 
 施工图（截图给 Claude Code 看的那张）描述了完整意图，本仓库是它的实现。
