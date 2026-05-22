@@ -1,0 +1,21 @@
+{
+  "name": "claudio",
+  "version": "0.1.0",
+  "description": "Personal AI radio DJ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "express": "^5.2.1",
+    "NeteaseCloudMusicApi": "^4.32.0",
+    "ws": "^8.20.1"
+  }
+}

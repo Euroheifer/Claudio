@@ -1,0 +1,11 @@
+{
+  "name": "Claudio",
+  "short_name": "Claudio",
+  "description": "个人 AI 电台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c0c10",
+  "theme_color": "#0c0c10",
+  "lang": "zh-CN",
+  "icons": []
+}

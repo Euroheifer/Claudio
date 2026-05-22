@@ -1,0 +1,18 @@
+node_modules/
+state.db
+state.db-journal
+state.db-wal
+state.db-shm
+cache/tts/*.mp3
+cache/tts/*.m4a
+cache/tts/*.aiff
+cache/tts/*.wav
+.env
+.DS_Store
+
+# 你私人的口味语料；首次启动会从 .example.* 自动复制初始化
+user/taste.md
+user/routines.md
+user/playlists.json
+user/mood-rules.md
+
